@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BP\\source\\repos\\AutoFailover\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A901FB66-BCA8-4753-9A38-60A772B1FCC6}|AutoFailover\\AutoFailover.csproj|c:\\users\\bp\\source\\repos\\autofailover\\autofailover\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A901FB66-BCA8-4753-9A38-60A772B1FCC6}|AutoFailover\\AutoFailover.csproj|solutionrelative:autofailover\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A901FB66-BCA8-4753-9A38-60A772B1FCC6}|AutoFailover\\AutoFailover.csproj|C:\\Users\\BP\\source\\repos\\AutoFailover\\AutoFailover\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A901FB66-BCA8-4753-9A38-60A772B1FCC6}|AutoFailover\\AutoFailover.csproj|solutionrelative:AutoFailover\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A901FB66-BCA8-4753-9A38-60A772B1FCC6}|AutoFailover\\AutoFailover.csproj|C:\\Users\\BP\\source\\repos\\AutoFailover\\AutoFailover\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A901FB66-BCA8-4753-9A38-60A772B1FCC6}|AutoFailover\\AutoFailover.csproj|solutionrelative:AutoFailover\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\BP\\source\\repos\\AutoFailover\\AutoFailover\\Form1.cs",
+              "RelativeDocumentMoniker": "AutoFailover\\Form1.cs",
+              "ToolTip": "C:\\Users\\BP\\source\\repos\\AutoFailover\\AutoFailover\\Form1.cs",
+              "RelativeToolTip": "AutoFailover\\Form1.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAADwv4YAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:51:34.263Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BP\\source\\repos\\AutoFailover\\AutoFailover\\Form1.cs",
+              "RelativeDocumentMoniker": "AutoFailover\\Form1.cs",
+              "ToolTip": "C:\\Users\\BP\\source\\repos\\AutoFailover\\AutoFailover\\Form1.cs [Design]",
+              "RelativeToolTip": "AutoFailover\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:05:52.311Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BP\\source\\repos\\AutoFailover\\AutoFailover\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AutoFailover\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\BP\\source\\repos\\AutoFailover\\AutoFailover\\Form1.Designer.cs",
+              "RelativeToolTip": "AutoFailover\\Form1.Designer.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAowNIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:05:39.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
