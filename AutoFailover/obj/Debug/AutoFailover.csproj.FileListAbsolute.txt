@@ -1,0 +1,10 @@
+C:\Users\BP\source\repos\AutoFailover\AutoFailover\obj\Debug\AutoFailover.csproj.AssemblyReference.cache
+C:\Users\BP\source\repos\AutoFailover\AutoFailover\obj\Debug\AutoFailover.Form1.resources
+C:\Users\BP\source\repos\AutoFailover\AutoFailover\obj\Debug\AutoFailover.Properties.Resources.resources
+C:\Users\BP\source\repos\AutoFailover\AutoFailover\obj\Debug\AutoFailover.csproj.GenerateResource.cache
+C:\Users\BP\source\repos\AutoFailover\AutoFailover\obj\Debug\AutoFailover.csproj.CoreCompileInputs.cache
+C:\Users\BP\source\repos\AutoFailover\AutoFailover\bin\Debug\AutoFailover.exe.config
+C:\Users\BP\source\repos\AutoFailover\AutoFailover\bin\Debug\AutoFailover.exe
+C:\Users\BP\source\repos\AutoFailover\AutoFailover\bin\Debug\AutoFailover.pdb
+C:\Users\BP\source\repos\AutoFailover\AutoFailover\obj\Debug\AutoFailover.exe
+C:\Users\BP\source\repos\AutoFailover\AutoFailover\obj\Debug\AutoFailover.pdb
